@@ -5,6 +5,7 @@ RESUMEN # Alke-Wallet-BS
 CÓDIGO SQL COMPLETO
 --Crear la base de datos
 CREATE DATABASE IF NOT EXISTS AlkeWallet;
+
 <img width="1365" height="657" alt="image" src="https://github.com/user-attachments/assets/29fb5922-5052-4c39-96e7-3b71f562d387" />
 
 USE AlkeWallet;  
