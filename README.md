@@ -1,4 +1,6 @@
 RESUMEN # Alke-Wallet-BS
+
+
 <img width="694" height="475" alt="image" src="https://github.com/user-attachments/assets/6a995855-d906-44ef-8c5e-28dae1e95f82" />
 CÓDIGO SQL COMPLETO
 --Crear la base de datos
